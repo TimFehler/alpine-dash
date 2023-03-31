@@ -1,3 +1,10 @@
+*.gpx
+*.fit*
+*.secret
+*.pickle
+
+access/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
